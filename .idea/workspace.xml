@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e65b6a10-a687-47c9-86d9-1454f1ee820c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uJOxMCLlPIQY4pem7TJRUJXQIn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="System.out.println();" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RectangleArea">
+    <configuration name="CheckEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckEven" />
+      <module name="OOPLapReport" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetterAppearance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LetterAppearance" />
+      <module name="OOPLapReport" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorsSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperatorsSwitch" />
+      <module name="OOPLapReport" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RectangleArea" />
+      <module name="OOPLapReport" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchCase" />
+      <module name="OOPLapReport" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RectangleArea" />
+        <item itemvalue="Application.OperatorsSwitch" />
+        <item itemvalue="Application.SwitchCase" />
+        <item itemvalue="Application.LetterAppearance" />
+        <item itemvalue="Application.CheckEven" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e65b6a10-a687-47c9-86d9-1454f1ee820c" name="Default Changelist" comment="" />
+      <created>1624380470558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624380470558</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1320" height="208" key="GridCell.Tab.0.bottom" timestamp="1624392659091">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="208" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1624392659091" />
+    <state width="1320" height="208" key="GridCell.Tab.0.center" timestamp="1624392659090">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="208" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1624392659090" />
+    <state width="1320" height="208" key="GridCell.Tab.0.left" timestamp="1624392659090">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="208" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1624392659090" />
+    <state width="1320" height="208" key="GridCell.Tab.0.right" timestamp="1624392659090">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="208" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1624392659090" />
+    <state x="347" y="175" key="run.anything.popup" timestamp="1624381671074">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="175" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1624381671074" />
+  </component>
+</project>
