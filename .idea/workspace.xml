@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e65b6a10-a687-47c9-86d9-1454f1ee820c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lab2/StudentAvg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/ShopProducts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,26 +32,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="System.out.println();" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.StudentAvg">
-    <configuration name="AddToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab2.AddToArray" />
-      <module name="OOPLapReport" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Quiz">
     <configuration name="GetCurrentDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab2.GetCurrentDate" />
       <module name="OOPLapReport" />
@@ -66,6 +55,19 @@
     </configuration>
     <configuration name="JoinMultipleStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab2.JoinMultipleStrings" />
+      <module name="OOPLapReport" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab2.Quiz" />
       <module name="OOPLapReport" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Quiz" />
         <item itemvalue="Application.StudentAvg" />
         <item itemvalue="Application.UsingParallelSort" />
         <item itemvalue="Application.JoinMultipleStrings" />
         <item itemvalue="Application.GetCurrentDate" />
-        <item itemvalue="Application.AddToArray" />
       </list>
     </recent_temporary>
   </component>
@@ -127,22 +129,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1320" height="182" key="GridCell.Tab.0.bottom" timestamp="1628676106005">
+    <state width="1320" height="208" key="GridCell.Tab.0.bottom" timestamp="1628680979099">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="182" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1628676106005" />
-    <state width="1320" height="182" key="GridCell.Tab.0.center" timestamp="1628676106004">
+    <state width="1320" height="208" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1628680979099" />
+    <state width="1320" height="208" key="GridCell.Tab.0.center" timestamp="1628680979099">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="182" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1628676106004" />
-    <state width="1320" height="182" key="GridCell.Tab.0.left" timestamp="1628676106003">
+    <state width="1320" height="208" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1628680979099" />
+    <state width="1320" height="208" key="GridCell.Tab.0.left" timestamp="1628680979098">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="182" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1628676106003" />
-    <state width="1320" height="182" key="GridCell.Tab.0.right" timestamp="1628676106004">
+    <state width="1320" height="208" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1628680979098" />
+    <state width="1320" height="208" key="GridCell.Tab.0.right" timestamp="1628680979099">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="182" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1628676106004" />
+    <state width="1320" height="208" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1628680979099" />
     <state width="671" height="216" key="GridCell.Tab.1.bottom" timestamp="1628673289264">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
