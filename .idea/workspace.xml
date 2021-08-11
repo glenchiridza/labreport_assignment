@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e65b6a10-a687-47c9-86d9-1454f1ee820c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lab2/JoinMultipleStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab2/UsingParallelSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
       <command value="System.out.println();" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.JoinMultipleStrings">
+  <component name="RunManager" selected="Application.UsingParallelSort">
     <configuration name="AddToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab2.AddToArray" />
       <module name="OOPLapReport" />
@@ -90,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab2.StringCount" />
+    <configuration name="UsingParallelSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab2.UsingParallelSort" />
       <module name="OOPLapReport" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UsingParallelSort" />
         <item itemvalue="Application.JoinMultipleStrings" />
         <item itemvalue="Application.GetCurrentDate" />
         <item itemvalue="Application.AddToArray" />
         <item itemvalue="Application.ConcatStrings" />
-        <item itemvalue="Application.StringCount" />
       </list>
     </recent_temporary>
   </component>
@@ -127,22 +127,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1320" height="205" key="GridCell.Tab.0.bottom" timestamp="1628673304525">
+    <state width="671" height="190" key="GridCell.Tab.0.bottom" timestamp="1628674487453">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="205" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1628673304525" />
-    <state width="1320" height="205" key="GridCell.Tab.0.center" timestamp="1628673304524">
+    <state width="671" height="190" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1628674487453" />
+    <state width="671" height="190" key="GridCell.Tab.0.center" timestamp="1628674487452">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="205" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1628673304524" />
-    <state width="1320" height="205" key="GridCell.Tab.0.left" timestamp="1628673304523">
+    <state width="671" height="190" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1628674487452" />
+    <state width="671" height="190" key="GridCell.Tab.0.left" timestamp="1628674487452">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="205" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1628673304523" />
-    <state width="1320" height="205" key="GridCell.Tab.0.right" timestamp="1628673304525">
+    <state width="671" height="190" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1628674487452" />
+    <state width="671" height="190" key="GridCell.Tab.0.right" timestamp="1628674487452">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="205" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1628673304525" />
+    <state width="671" height="190" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1628674487452" />
     <state width="671" height="216" key="GridCell.Tab.1.bottom" timestamp="1628673289264">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
