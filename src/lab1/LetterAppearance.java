@@ -1,3 +1,5 @@
+package lab1;
+
 /**
  * Created by glenc on Jun 2021
  **/
@@ -11,7 +13,7 @@ public class LetterAppearance {
         int count = 0;
         for (int b =0;b<name.length();b++) {
             if (name.charAt(b) == letter){
-                count++;
+                ++count;
             }
         }
         System.out.println("letter i appears "+count +" times");

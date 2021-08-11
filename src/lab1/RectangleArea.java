@@ -1,3 +1,5 @@
+package lab1;
+
 /**
  * Created by glenc on Jun 2021
  **/
