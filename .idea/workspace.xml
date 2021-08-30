@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e65b6a10-a687-47c9-86d9-1454f1ee820c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lab3/CheckAlphabet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lab3/QuadraticRoots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/QuadraticRoots.java" afterDir="false" />
     </list>
@@ -39,7 +40,7 @@
       <command value="System.out.println();" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuadraticRoots">
+  <component name="RunManager" selected="Application.CheckAlphabet">
     <configuration name="CharFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab3.CharFrequency" />
       <module name="OOPLapReport" />
@@ -53,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckVowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab3.CheckVowel" />
+    <configuration name="CheckAlphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.CheckAlphabet" />
       <module name="OOPLapReport" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckAlphabet" />
         <item itemvalue="Application.QuadraticRoots" />
         <item itemvalue="Application.LetterCount" />
         <item itemvalue="Application.CharFrequency" />
         <item itemvalue="Application.Swapp" />
-        <item itemvalue="Application.CheckVowel" />
       </list>
     </recent_temporary>
   </component>
@@ -133,22 +134,22 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="466" y="154" width="434" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1630325980594" />
-    <state width="1320" height="204" key="GridCell.Tab.0.bottom" timestamp="1630327092241">
+    <state width="1320" height="286" key="GridCell.Tab.0.bottom" timestamp="1630328318416">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="204" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1630327092241" />
-    <state width="1320" height="204" key="GridCell.Tab.0.center" timestamp="1630327092240">
+    <state width="1320" height="286" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1630328318416" />
+    <state width="1320" height="286" key="GridCell.Tab.0.center" timestamp="1630328318415">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="204" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1630327092240" />
-    <state width="1320" height="204" key="GridCell.Tab.0.left" timestamp="1630327092240">
+    <state width="1320" height="286" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1630328318415" />
+    <state width="1320" height="286" key="GridCell.Tab.0.left" timestamp="1630328318414">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="204" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1630327092240" />
-    <state width="1320" height="204" key="GridCell.Tab.0.right" timestamp="1630327092240">
+    <state width="1320" height="286" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1630328318414" />
+    <state width="1320" height="286" key="GridCell.Tab.0.right" timestamp="1630328318415">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="204" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1630327092240" />
+    <state width="1320" height="286" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1630328318415" />
     <state width="671" height="216" key="GridCell.Tab.1.bottom" timestamp="1628673289264">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -181,10 +182,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="277" y="27" width="802" height="741" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1624447140866" />
-    <state x="347" y="175" key="run.anything.popup" timestamp="1624381671074">
+    <state x="347" y="175" width="672" height="677" key="run.anything.popup" timestamp="1630327545446">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="347" y="175" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1624381671074" />
+    <state x="347" y="175" width="672" height="677" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1630327545446" />
     <state x="664" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1630326177465">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
