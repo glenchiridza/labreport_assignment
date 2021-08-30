@@ -7,12 +7,12 @@ public class JavaPolymorphism {
     public static void main(String[] args) {
 
         Nationality nationality  = new Nationality("Zimbabwean");
-        nationality.displayInfo();
+        nationality.displayInfo("GLEN CHIRIDZA","COMPUTER SCIENTIST");
 
         System.out.println("Another polymorphic call");
 
         Nationality nationality2  = new Nationality("Australian");
-        nationality2.displayInfo();
+        nationality2.displayInfo("CLIVE CHIRIDZA","BIOCHEMIST");
 
     }
 
@@ -21,19 +21,15 @@ public class JavaPolymorphism {
 
 class Professional{
 
-    private String name;
-    private String occupation;
-
-
     public Professional(){
-        this.name = "Glen Chiridza";
-        this.occupation = "Computer Scientist";
     }
 
-    public void displayInfo(){
+    public void displayInfo(String name,String occupation){
+        name = "Glen Chiridza";
+        occupation = "Computer Scientist";
         System.out.println(" ");
         System.out.format(
-                "I am %s I work as a %s" ,this.name,this.occupation
+                "I am %s I work as a %s" ,name,occupation
         );
     }
 
@@ -46,8 +42,8 @@ class Nationality extends Professional{
     }
 
     @Override
-    public void displayInfo(){
-        super.displayInfo();
+    public void displayInfo(String name,String occupation){
+        super.displayInfo(name,occupation);
         System.out.println("I am a "+myNationality);
     }
 
