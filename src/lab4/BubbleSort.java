@@ -4,7 +4,7 @@ package lab4;
  * Created by glenc on Aug 2021
  **/
 public class BubbleSort {
-    static int[] nums = {1,3,2,7,3,8,3,5,2,1,90,22,17};
+    static int[] nums = {1,4,2,7,6,8,3,5,2,11,90,22,17,10};
 
     public static void main(String[] args) {
         bubbleSort();
@@ -16,6 +16,7 @@ public class BubbleSort {
         }
 
         int nmElems = 13;
+
         int out,in;
         for (out=nmElems;out>1;out--){
             for (in=0;in<out;in++){
