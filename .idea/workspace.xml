@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e65b6a10-a687-47c9-86d9-1454f1ee820c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lab3/Swapp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/CharFrequency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
       <command value="System.out.println();" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Swapp">
+  <component name="RunManager" selected="Application.CharFrequency">
     <configuration name="AddToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab2.AddToArray" />
       <module name="OOPLapReport" />
@@ -53,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckVowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab3.CheckVowel" />
+    <configuration name="CharFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.CharFrequency" />
       <module name="OOPLapReport" />
       <extension name="coverage">
         <pattern>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShopProducts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab2.ShopProducts" />
+    <configuration name="CheckVowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.CheckVowel" />
       <module name="OOPLapReport" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab2.*" />
+          <option name="PATTERN" value="lab3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CharFrequency" />
         <item itemvalue="Application.Swapp" />
         <item itemvalue="Application.CheckVowel" />
         <item itemvalue="Application.AddToArray" />
         <item itemvalue="Application.StudentGrading" />
-        <item itemvalue="Application.ShopProducts" />
       </list>
     </recent_temporary>
   </component>
@@ -129,26 +129,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1628968753351">
+    <state x="466" y="154" width="434" height="484" key="FileChooserDialogImpl" timestamp="1630325980594">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1628968753351" />
-    <state width="1320" height="171" key="GridCell.Tab.0.bottom" timestamp="1630325726216">
+    <state x="466" y="154" width="434" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1630325980594" />
+    <state width="1320" height="154" key="GridCell.Tab.0.bottom" timestamp="1630326035908">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="171" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1630325726216" />
-    <state width="1320" height="171" key="GridCell.Tab.0.center" timestamp="1630325726215">
+    <state width="1320" height="154" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1630326035908" />
+    <state width="1320" height="154" key="GridCell.Tab.0.center" timestamp="1630326035907">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="171" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1630325726215" />
-    <state width="1320" height="171" key="GridCell.Tab.0.left" timestamp="1630325726214">
+    <state width="1320" height="154" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1630326035907" />
+    <state width="1320" height="154" key="GridCell.Tab.0.left" timestamp="1630326035907">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="171" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1630325726214" />
-    <state width="1320" height="171" key="GridCell.Tab.0.right" timestamp="1630325726215">
+    <state width="1320" height="154" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1630326035907" />
+    <state width="1320" height="154" key="GridCell.Tab.0.right" timestamp="1630326035908">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="171" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1630325726215" />
+    <state width="1320" height="154" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1630326035908" />
     <state width="671" height="216" key="GridCell.Tab.1.bottom" timestamp="1628673289264">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
