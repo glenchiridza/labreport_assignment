@@ -13,7 +13,14 @@ public class CheckVowel {
         System.out.println(" ");
 
         Scanner input = new Scanner(System.in);
-        char i = input.next().charAt(0);
+        char vc = input.next().charAt(0);
+
+        String vowel_or_consonant =
+                (vc=='a' || vc=='e' || vc=='i'
+                        || vc=='o' ||vc=='u')?"vowel" : "Consonant";
+
+        System.out.println(vc + " is a " + vowel_or_consonant);
+
 
 
     }
