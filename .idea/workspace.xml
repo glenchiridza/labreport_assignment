@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e65b6a10-a687-47c9-86d9-1454f1ee820c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lab3/CheckVowel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,10 +129,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1628775522049">
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1628968753351">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1628775522049" />
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1628968753351" />
     <state width="1320" height="177" key="GridCell.Tab.0.bottom" timestamp="1628683312276">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -164,10 +165,18 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="671" height="216" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1628673289263" />
-    <state x="339" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1628775490396">
+    <state x="556" y="137" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1628891705315">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="339" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1628775490396" />
+    <state x="556" y="137" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1628891705315" />
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1630324345891">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1630324345891" />
+    <state x="774" y="321" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628891664919">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="774" y="321" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1628891664919" />
     <state x="277" y="27" width="802" height="741" key="new project wizard" timestamp="1624447140866">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
