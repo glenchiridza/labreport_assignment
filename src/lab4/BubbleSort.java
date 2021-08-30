@@ -10,6 +10,7 @@ public class BubbleSort {
         bubbleSort();
     }
     public static void bubbleSort(){
+        System.out.println("BubbleSort");
         System.out.println("Array before sort");
         for (int i : nums){
             System.out.print(i + " ");
