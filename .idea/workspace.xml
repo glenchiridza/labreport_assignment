@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e65b6a10-a687-47c9-86d9-1454f1ee820c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lab4/GradingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/InsertionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
       <command value="System.out.println();" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.GradingSystem">
+  <component name="RunManager" selected="Application.InsertionSort">
     <configuration name="Exponential" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab3.Exponential" />
       <module name="OOPLapReport" />
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfTerms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab3.NumberOfTerms" />
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab4.InsertionSort" />
       <module name="OOPLapReport" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab3.*" />
+          <option name="PATTERN" value="lab4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.GradingSystem" />
         <item itemvalue="Application.ShopCart" />
         <item itemvalue="Application.Exponential" />
         <item itemvalue="Application.ReverseNumber" />
-        <item itemvalue="Application.NumberOfTerms" />
       </list>
     </recent_temporary>
   </component>
@@ -133,22 +133,22 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="466" y="154" width="434" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1630325980594" />
-    <state width="1320" height="289" key="GridCell.Tab.0.bottom" timestamp="1630331741746">
+    <state width="1320" height="289" key="GridCell.Tab.0.bottom" timestamp="1630332172785">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="289" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1630331741746" />
-    <state width="1320" height="289" key="GridCell.Tab.0.center" timestamp="1630331741746">
+    <state width="1320" height="289" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1630332172785" />
+    <state width="1320" height="289" key="GridCell.Tab.0.center" timestamp="1630332172784">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="289" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1630331741746" />
-    <state width="1320" height="289" key="GridCell.Tab.0.left" timestamp="1630331741746">
+    <state width="1320" height="289" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1630332172784" />
+    <state width="1320" height="289" key="GridCell.Tab.0.left" timestamp="1630332172784">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="289" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1630331741746" />
-    <state width="1320" height="289" key="GridCell.Tab.0.right" timestamp="1630331741746">
+    <state width="1320" height="289" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1630332172784" />
+    <state width="1320" height="289" key="GridCell.Tab.0.right" timestamp="1630332172785">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="289" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1630331741746" />
+    <state width="1320" height="289" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1630332172785" />
     <state width="671" height="216" key="GridCell.Tab.1.bottom" timestamp="1628673289264">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
