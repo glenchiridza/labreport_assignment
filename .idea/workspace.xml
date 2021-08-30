@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e65b6a10-a687-47c9-86d9-1454f1ee820c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lab3/MultiplicationTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab3/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/Factorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +39,7 @@
       <command value="System.out.println();" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Factorial">
-    <configuration name="CharFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab3.CharFrequency" />
-      <module name="OOPLapReport" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MultiplicationTable">
     <configuration name="CheckAlphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab3.CheckAlphabet" />
       <module name="OOPLapReport" />
@@ -92,6 +79,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.MultiplicationTable" />
+      <module name="OOPLapReport" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QuadraticRoots" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab3.QuadraticRoots" />
       <module name="OOPLapReport" />
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.CheckAlphabet" />
         <item itemvalue="Application.QuadraticRoots" />
         <item itemvalue="Application.LetterCount" />
-        <item itemvalue="Application.CharFrequency" />
       </list>
     </recent_temporary>
   </component>
@@ -133,22 +133,22 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="466" y="154" width="434" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1630325980594" />
-    <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1630328631419">
+    <state width="664" height="202" key="GridCell.Tab.0.bottom" timestamp="1630329249091">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1630328631419" />
-    <state width="1320" height="172" key="GridCell.Tab.0.center" timestamp="1630328631418">
+    <state width="664" height="202" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1630329249091" />
+    <state width="664" height="202" key="GridCell.Tab.0.center" timestamp="1630329249090">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1630328631418" />
-    <state width="1320" height="172" key="GridCell.Tab.0.left" timestamp="1630328631418">
+    <state width="664" height="202" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1630329249090" />
+    <state width="664" height="202" key="GridCell.Tab.0.left" timestamp="1630329249090">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1630328631418" />
-    <state width="1320" height="172" key="GridCell.Tab.0.right" timestamp="1630328631418">
+    <state width="664" height="202" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1630329249090" />
+    <state width="664" height="202" key="GridCell.Tab.0.right" timestamp="1630329249090">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1630328631418" />
+    <state width="664" height="202" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1630329249090" />
     <state width="671" height="216" key="GridCell.Tab.1.bottom" timestamp="1628673289264">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
