@@ -29,7 +29,7 @@ public class InsertionSort {
             }
             a[in] = temp;
         }
-        System.out.println("sorted array");
+        System.out.println("\nsorted array");
         for (int i : a){
             System.out.print(i +" ");
         }
