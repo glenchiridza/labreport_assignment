@@ -23,6 +23,7 @@ class Music{
     }
 
     public void display(){
+        System.out.println(" ");
         System.out.format(
                 "%s written by %s",this.song, this.author
         );
