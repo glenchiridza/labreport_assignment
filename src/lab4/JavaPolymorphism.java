@@ -25,8 +25,7 @@ class Professional{
     }
 
     public void displayInfo(String name,String occupation){
-        name = "Glen Chiridza";
-        occupation = "Computer Scientist";
+
         System.out.println(" ");
         System.out.format(
                 "I am %s I work as a %s" ,name,occupation
