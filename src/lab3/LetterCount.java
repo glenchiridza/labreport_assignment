@@ -16,6 +16,6 @@ public class LetterCount {
             letters++;
         }
 
-        System.out.println("There are "+ letters +"in this paragraph");
+        System.out.println("There are "+ letters +" letters in this paragraph");
     }
 }
