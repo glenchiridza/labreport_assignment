@@ -14,8 +14,7 @@ public class Exponential {
             result *=base;
             --exponent;
         }
-        System.out.println(" ");
+
         System.out.format("%d to the power 4 = %d",base,result);
-        System.out.println(" ");
     }
 }
