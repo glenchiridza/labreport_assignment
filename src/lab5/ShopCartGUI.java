@@ -10,7 +10,7 @@ import java.util.concurrent.atomic.AtomicReference;
  **/
 public class ShopCartGUI  extends JFrame {
 
-    private JList listItems;
+    private JTextArea listItems;
     private JLabel label;
 
         public ShopCartGUI(){
@@ -34,7 +34,8 @@ public class ShopCartGUI  extends JFrame {
             label = new JLabel("Shop Cart List ");
             add(label);
 
-        listItems = new JList((ListModel) item);
+
+        listItems = new JTextArea(String.valueOf(item.keySet())+"\n");
         add(listItems);
 
         }
