@@ -5,11 +5,9 @@ package lab3;
  **/
 public class NumberOfTerms {
     public static void main(String[] args) {
-
         int num =100;
         int c1 = 0;
         int c2 = 1;
-
         System.out.println("Fibonacci Series Upto "+100);
         while(c1 <= num){
             System.out.print(c1 + "+ ");
@@ -17,6 +15,5 @@ public class NumberOfTerms {
             c1 = c2;
             c2 = sum;
         }
-
     }
 }

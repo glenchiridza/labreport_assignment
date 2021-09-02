@@ -4,7 +4,6 @@ package lab3;
  * Created by glenc on Aug 2021
  **/
 public class Factorial {
-
     public static void main(String[] args) {
         int num = 5;
         long factorial = 1;
@@ -14,5 +13,6 @@ public class Factorial {
         System.out.println(" ");
         System.out.println("Factorial of "+num+" = "+factorial);
     }
+
 }
 

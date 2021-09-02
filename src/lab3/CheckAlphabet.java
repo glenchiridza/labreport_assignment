@@ -8,7 +8,6 @@ import java.util.Scanner;
 public class CheckAlphabet {
 
     public static void main(String[] args) {
-
         Scanner input = new Scanner(System.in);
         System.out.println("Please input single character to check: ");
         char b = input.next().charAt(0);
@@ -20,8 +19,6 @@ public class CheckAlphabet {
                 break;
             }
             a++;
-
         }
-
     }
 }

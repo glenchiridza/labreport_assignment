@@ -3,7 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="e65b6a10-a687-47c9-86d9-1454f1ee820c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab5/ShopCartGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab5/ShopCartGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab3/CharFrequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/CharFrequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab3/CheckAlphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/CheckAlphabet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab3/CheckVowel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/CheckVowel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab3/CountDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/CountDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab3/Exponential.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/Exponential.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab3/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab3/LetterCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/LetterCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab3/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab3/NumberOfTerms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/NumberOfTerms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab3/QuadraticRoots.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/QuadraticRoots.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab3/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/ReverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab3/Swapp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/Swapp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +50,7 @@
       <command value="System.out.println();" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShopCartGUI">
+  <component name="RunManager" selected="Application.ReverseNumber">
     <configuration name="ComboBoxSelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab5.ComboBoxSelection" />
       <module name="OOPLapReport" />
@@ -53,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeskApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab5.DeskApp" />
+    <configuration name="CountDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.CountDigits" />
       <module name="OOPLapReport" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab5.*" />
+          <option name="PATTERN" value="lab3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaPolymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab4.JavaPolymorphism" />
+    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.ReverseNumber" />
       <module name="OOPLapReport" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lab4.*" />
+          <option name="PATTERN" value="lab3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseNumber" />
+        <item itemvalue="Application.CountDigits" />
         <item itemvalue="Application.ShopCartGUI" />
         <item itemvalue="Application.GUICalculator" />
         <item itemvalue="Application.ComboBoxSelection" />
-        <item itemvalue="Application.DeskApp" />
-        <item itemvalue="Application.JavaPolymorphism" />
       </list>
     </recent_temporary>
   </component>
@@ -137,22 +148,22 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="466" y="154" width="434" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1630325980594" />
-    <state width="1320" height="195" key="GridCell.Tab.0.bottom" timestamp="1630611178614">
+    <state width="1320" height="195" key="GridCell.Tab.0.bottom" timestamp="1630616803347">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="195" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1630611178614" />
-    <state width="1320" height="195" key="GridCell.Tab.0.center" timestamp="1630611178613">
+    <state width="1320" height="195" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1630616803347" />
+    <state width="1320" height="195" key="GridCell.Tab.0.center" timestamp="1630616803346">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="195" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1630611178613" />
-    <state width="1320" height="195" key="GridCell.Tab.0.left" timestamp="1630611178613">
+    <state width="1320" height="195" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1630616803346" />
+    <state width="1320" height="195" key="GridCell.Tab.0.left" timestamp="1630616803342">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="195" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1630611178613" />
-    <state width="1320" height="195" key="GridCell.Tab.0.right" timestamp="1630611178613">
+    <state width="1320" height="195" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1630616803342" />
+    <state width="1320" height="195" key="GridCell.Tab.0.right" timestamp="1630616803347">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="195" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1630611178613" />
+    <state width="1320" height="195" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1630616803347" />
     <state width="671" height="216" key="GridCell.Tab.1.bottom" timestamp="1628673289264">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

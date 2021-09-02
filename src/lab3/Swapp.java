@@ -21,8 +21,6 @@ public class Swapp {
 
         System.out.println("\nAfter swapping");
         System.out.format("a = %d, b = %d",a,b);
-
-
     }
 
 }

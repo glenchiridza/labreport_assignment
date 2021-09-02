@@ -8,7 +8,6 @@ public class CharFrequency {
     public static void main(String[] args) {
         String sentence = "I am practicing simple Java codes and it has been great";
         char ch = 'e';
-
         int frequency = 0;
 
         for(int i = 0; i< sentence.length();i++){
@@ -16,7 +15,5 @@ public class CharFrequency {
                 frequency++;
         }
         System.out.println("Frequency of "+ch+" is "+frequency);
-
     }
-
 }

@@ -21,8 +21,6 @@ public class CheckVowel {
 
         System.out.println(vc + " is a " + vowel_or_consonant);
 
-
-
     }
 
 }

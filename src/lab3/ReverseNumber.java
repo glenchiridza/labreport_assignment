@@ -7,7 +7,6 @@ public class ReverseNumber {
     public static void main(String[] args) {
         int num = 1234;
         int reversedNum = 0;
-
         System.out.println();
         System.out.println("Number before reversal = "+num);
 
@@ -16,7 +15,6 @@ public class ReverseNumber {
             reversedNum = reversedNum * 10 + digit;
             num /= 10;
         }
-
         System.out.println("Number in reverse = "+reversedNum);
     }
 }
