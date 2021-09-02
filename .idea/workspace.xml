@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e65b6a10-a687-47c9-86d9-1454f1ee820c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lab5/DeskApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab4/JavaPolymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab4/JavaPolymorphism.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +39,26 @@
       <command value="System.out.println();" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaPolymorphism">
+  <component name="RunManager" selected="Application.DeskApp">
     <configuration name="ClassesOOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab4.ClassesOOP" />
       <module name="OOPLapReport" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeskApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab5.DeskApp" />
+      <module name="OOPLapReport" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,26 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lab4.SelectionSort" />
-      <module name="OOPLapReport" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lab4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeskApp" />
         <item itemvalue="Application.JavaPolymorphism" />
         <item itemvalue="Application.ClassesOOP" />
         <item itemvalue="Application.JavaReflection" />
         <item itemvalue="Application.ExceptionHandling" />
-        <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -137,22 +137,22 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="466" y="154" width="434" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1630325980594" />
-    <state width="1320" height="330" key="GridCell.Tab.0.bottom" timestamp="1630335642272">
+    <state width="1320" height="190" key="GridCell.Tab.0.bottom" timestamp="1630335728817">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="330" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1630335642272" />
-    <state width="1320" height="330" key="GridCell.Tab.0.center" timestamp="1630335642270">
+    <state width="1320" height="190" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1630335728817" />
+    <state width="1320" height="190" key="GridCell.Tab.0.center" timestamp="1630335728816">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="330" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1630335642270" />
-    <state width="1320" height="330" key="GridCell.Tab.0.left" timestamp="1630335642270">
+    <state width="1320" height="190" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1630335728816" />
+    <state width="1320" height="190" key="GridCell.Tab.0.left" timestamp="1630335728816">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="330" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1630335642270" />
-    <state width="1320" height="330" key="GridCell.Tab.0.right" timestamp="1630335642271">
+    <state width="1320" height="190" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1630335728816" />
+    <state width="1320" height="190" key="GridCell.Tab.0.right" timestamp="1630335728816">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="330" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1630335642271" />
+    <state width="1320" height="190" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1630335728816" />
     <state width="671" height="216" key="GridCell.Tab.1.bottom" timestamp="1628673289264">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -185,10 +185,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="277" y="27" width="802" height="741" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1624447140866" />
-    <state x="347" y="175" width="672" height="677" key="run.anything.popup" timestamp="1630327545446">
+    <state x="347" y="175" width="672" height="677" key="run.anything.popup" timestamp="1630607805984">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="347" y="175" width="672" height="677" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1630327545446" />
+    <state x="347" y="175" width="672" height="677" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1630607805984" />
     <state x="664" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1630326177465">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
