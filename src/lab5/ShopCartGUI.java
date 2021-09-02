@@ -2,7 +2,9 @@ package lab5;
 
 import javax.swing.*;
 import java.awt.*;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Map;
 import java.util.concurrent.atomic.AtomicReference;
 
 /**
@@ -34,8 +36,18 @@ public class ShopCartGUI  extends JFrame {
             label = new JLabel("Shop Cart List ");
             add(label);
 
+            ArrayList<Object> items = new ArrayList<>();
+            for (Map.Entry entry : item.entrySet()){
+                items.add(entry+"\n");
+            }
 
-        listItems = new JTextArea(String.valueOf(item.keySet())+"\n");
+        listItems = new JTextArea("\nItems in Store \n");
+            listItems.append((item.keySet())+"\n");
+        listItems.append("\nBought Items \n");
+        listItems.append(items+"");
+
+        listItems.append("\nTotal cost of Items Bought \n");
+        listItems.append("$"+totalPrice+"\n");
         add(listItems);
 
         }
