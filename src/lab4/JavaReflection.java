@@ -27,7 +27,6 @@ class Animal{
     String type = "Buffalo";
 
     public Animal(){
-
     }
     public void display(){
         System.out.println("Animal type is: "+this.type);

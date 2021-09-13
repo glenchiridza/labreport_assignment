@@ -10,7 +10,6 @@ public class InsertionSort {
 
         insertionSort();
     }
-
     public static void insertionSort(){
         System.out.println("Array before sort");
         for (int i : a){

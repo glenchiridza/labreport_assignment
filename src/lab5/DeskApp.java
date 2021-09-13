@@ -18,9 +18,6 @@ public class DeskApp {
                 "Hello hi "+firstName + " " +lastName,"UserDetails",
                 JOptionPane.PLAIN_MESSAGE);
 
-
-
-
     }
 
 }

@@ -8,7 +8,6 @@ public class ExceptionHandling {
         throw new ArithmeticException(("Trying to divide by zero, not allowed"));
     }
     public static void main(String[] args) {
-
         int x = 5;
         int y = 0;
 

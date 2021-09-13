@@ -10,7 +10,6 @@ public class JavaPolymorphism {
         nationality.displayInfo("GLEN CHIRIDZA","COMPUTER SCIENTIST");
 
         System.out.println("Another polymorphic call");
-
         Nationality nationality2  = new Nationality("Australian");
         nationality2.displayInfo("CLIVE CHIRIDZA","BIOCHEMIST");
 

@@ -10,7 +10,6 @@ public class SelectionSort {
 
         selectionSort();
     }
-
     public static void selectionSort(){
         System.out.println("Selection sort");
         System.out.println("Before sorting array");

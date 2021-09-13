@@ -4,10 +4,8 @@ package lab4;
  * Created by glenc on Aug 2021
  **/
 public class GradingSystem {
-
     public static void main(String[] args) {
         int [] ratings = {1,2,3,6,9,0,0,0,0,4};
-
         int frequency = 0;
         for (int i = 0; i<10;i++){
             if (i==0)
@@ -18,7 +16,6 @@ public class GradingSystem {
                 frequency += 10;
                 System.out.format("%d -- %d : %d \n", frequency, frequency+9, ratings[i]);
             }
-
         }
     }
 }

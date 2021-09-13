@@ -14,7 +14,6 @@ public class BinarySearch {
 
         sendValue(searchValue);
     }
-
     private static void sendValue(int searchValue) {
         int nmElems = 0;
 

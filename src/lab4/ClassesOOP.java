@@ -9,7 +9,6 @@ public class ClassesOOP {
         Music music = new Music("Glen","Standing here, my Eyes fixed on you!!");
         music.display();
     }
-
 }
 
 class Music{

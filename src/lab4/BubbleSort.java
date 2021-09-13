@@ -15,7 +15,6 @@ public class BubbleSort {
         for (int i : nums){
             System.out.print(i + " ");
         }
-
         int nmElems = 13;
 
         int out,in;
